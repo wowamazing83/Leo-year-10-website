@@ -1,13 +1,19 @@
 h1 {
     text-align: center;
-    color:cyan;
+    color: white;
 }
 h2 {
-    color: peachpuff;
+    color: white;
 }
 h4 {
-    color: peachpuff;
+    color: white;
 }
 body {
-    background-color: darkturquoise;
+    background-image: url(backgroundimage.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.hero-title {
+font-size: 5rem;
 }
